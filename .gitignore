@@ -8,6 +8,7 @@
 
 # testing
 /coverage
+echo "# Admin-Dashboard-React.js-Next.js" >> README.md
 
 # next.js
 /.next/
